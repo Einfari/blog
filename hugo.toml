@@ -1,6 +1,6 @@
 baseURL = 'https://einfari.com/'
 languageCode = 'zh-cn'
-title = '心之所憩'
+title = '桃花源记'
 theme = 'hugo_theme_pickles'
 
 # Copyright notice. This is displayer in the footer.
@@ -58,7 +58,7 @@ enableGitInfo = true
   # subtitle = "Short subtitle"
   # # Logo image. This is displayed ogp image.
   # logo = "/path/to/logo"
-  # favicon = "/path/to/favicon"
+  favicon = "/images/favicon.ico"
 
 # [[menu.main]]
 #     name = "Blog"
