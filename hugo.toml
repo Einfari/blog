@@ -1,0 +1,4 @@
+baseURL = 'https://einfari.github.io/'
+languageCode = 'zh-cn'
+title = '心之所憩'
+theme = 'paper'
