@@ -1,6 +1,6 @@
 +++
 date = '2025-02-10T20:04:55+08:00'
-draft = true
+draft = false
 title = 'NeoVim文件跳转技巧总结'
 +++
 
